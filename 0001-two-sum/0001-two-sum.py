@@ -5,8 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in nums:
-            result = target - i
-            if result in nums[nums.index(i)+1:]:
-                    return [nums.index(i), nums.index(result, nums.index(i)+ 1)]
+        map = {}
+        for i, n in enumerate(nums):
+            if target-n in map:
+                return [map[target-n], i]
+            else:
+                map[n] = i
         
