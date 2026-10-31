@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hanna1workalet/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Hanna1workalet/DSA/tree/master/0049-group-anagrams) |
+| [1768-merge-strings-alternately](https://github.com/Hanna1workalet/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Hanna1workalet/DSA/tree/master/0027-remove-element) |
+| [1768-merge-strings-alternately](https://github.com/Hanna1workalet/DSA/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
