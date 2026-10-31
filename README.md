@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hanna1workalet/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Hanna1workalet/DSA/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/Hanna1workalet/DSA/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/Hanna1workalet/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hanna1workalet/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Hanna1workalet/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hanna1workalet/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Hanna1workalet/DSA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hanna1workalet/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Hanna1workalet/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hanna1workalet/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Hanna1workalet/DSA/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hanna1workalet/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Hanna1workalet/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
