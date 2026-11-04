@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hanna1workalet/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Hanna1workalet/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Hanna1workalet/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hanna1workalet/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hanna1workalet/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hanna1workalet/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hanna1workalet/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Hanna1workalet/DSA/tree/master/0389-find-the-difference) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hanna1workalet/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
