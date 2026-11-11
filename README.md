@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Hanna1workalet/DSA/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Hanna1workalet/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hanna1workalet/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1572-matrix-diagonal-sum](https://github.com/Hanna1workalet/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hanna1workalet/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String
 |  |
@@ -126,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Hanna1workalet/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1572-matrix-diagonal-sum](https://github.com/Hanna1workalet/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
