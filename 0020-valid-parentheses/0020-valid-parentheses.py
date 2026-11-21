@@ -1,6 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        if len(s) == 1:
+        if len(s) == 1 or  len(s)%2!=0:
             return False
 
         myDict = {")": "(", "}" : "{", "]" : "["}
@@ -8,7 +8,7 @@ class Solution:
         for i in s:
             if i == "(" or i == "[" or i == "{":
                 myStack.append(i)
-            elif (i == ")" or i == "]" or i == "}") and len(myStack) == 0:
+            elif not myStack:
                 return False
             elif (i == ")" or i == "]" or i == "}"):
                 if myStack[-1] == myDict[i]:
