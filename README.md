@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hanna1workalet/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Hanna1workalet/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Hanna1workalet/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hanna1workalet/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Hanna1workalet/DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Hanna1workalet/DSA/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Hanna1workalet/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hanna1workalet/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Hanna1workalet/DSA/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
