@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hanna1workalet/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Hanna1workalet/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hanna1workalet/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Hanna1workalet/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hanna1workalet/DSA/tree/master/0058-length-of-last-word) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hanna1workalet/DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Hanna1workalet/DSA/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Hanna1workalet/DSA/tree/master/0054-spiral-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Hanna1workalet/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Hanna1workalet/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hanna1workalet/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
