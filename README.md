@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Hanna1workalet/DSA/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Hanna1workalet/DSA/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Hanna1workalet/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1470-shuffle-the-array](https://github.com/Hanna1workalet/DSA/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hanna1workalet/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0978-longest-turbulent-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0978-longest-turbulent-subarray](https://github.com/Hanna1workalet/DSA/tree/master/0978-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
